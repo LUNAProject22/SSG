@@ -1,12 +1,10 @@
 # Situational Scene Graph for Structured Human-centric Situation Understanding
 
 This repository contains the official PyTorch implementation of the paper:
-
 **Situational Scene Graph for Structured Human-centric Situation Understanding**  
 Chinthani Sugandhika, Chen Li, Deepu Rajan, Basura Fernando 
 WACV 2025 
 
---->
 [![arXiv](https://img.shields.io/badge/arXiv-2307.00586-b31b1b.svg)](https://arxiv.org/abs/2410.22829)
 
 
