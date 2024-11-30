@@ -14,7 +14,7 @@ Graph based representation has been widely used in modelling spatio-temporal rel
 
 ## Situational Scene Graph
 <!-- ![Situational Scene Graph](image.png) -->
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="image.png" alt="Situational Scene Graph" width="500"/>
 </div>
 
