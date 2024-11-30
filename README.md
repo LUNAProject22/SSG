@@ -13,7 +13,8 @@ WACV 2025
 Graph based representation has been widely used in modelling spatio-temporal relationships in video understanding. Although effective, existing graph-based approaches focus on capturing the human-object relationships while ignoring fine-grained semantic properties of the action components. These semantic properties are crucial for understanding the current situation, such as where does the action takes place, what tools are used and functional properties of the objects. In this work, we propose a graph-based representation called Situational Scene Graph (SSG) to encode both human-object relationships and the corresponding semantic properties. The semantic details are represented as predefined roles and values inspired by situation frame, which is originally designed to represent a single action. Based on our proposed representation, we introduce the task of situational scene graph generation and propose a multi-stage pipeline Interactive and Complementary Network (InComNet) to address the task. Given that the existing datasets are not applicable to the task, we further introduce a SSG dataset whose annotations consist of semantic role-value frames for human, objects and verb predicates of human-object relations. Finally, we demonstrate the effectiveness of our proposed SSG representation by testing on different downstream tasks. Experimental results show that the unified representation can not only benefit predicate classification and semantic role-value classification, but also benefit reasoning tasks on human-centric situation understanding.
 
 ## Situational Scene Graph
-![Situational Scene Graph](image.png)
+<!-- ![Situational Scene Graph](image.png) -->
+<img src="image.png" alt="Situational Scene Graph" width="600"/>
 
 We split our repository into three sections:
 1. SSG Dataset
