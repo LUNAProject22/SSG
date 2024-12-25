@@ -23,6 +23,18 @@ We split our repository into three sections:
 2. InComNet Model
 3. Data Annotation Tool
 
+## 1. SSG Dataset
+SSG dataset is based on Action Genome dataset. 
++ Process and download the Action Genome video frames with the [Toolkit](https://github.com/JingweiJ/ActionGenome). 
++ Download the SSG annotations from [SSG dataset](https://drive.google.com/drive/folders/1cUNQpBM5TBftALfcfA67AgtM7HvxYKNd).
+
+
+## 2. InComNet Model
+Please refer to [`InComNet/`](InComNet/)
+
+
+## 3. Data Annotation Tool
+Please refer to [`AnnotationTool/`](AnnotationTool/)
 
 ## Citation
 If you use this code for your research, please cite our paper:
@@ -38,6 +50,5 @@ If you use this code for your research, please cite our paper:
 
 
 ## Acknowledgments
-Our code is inspired by [STTran](https://github.com/yrcong/STTran).
 
 This research/project is supported by the National Research Foundation, Singapore, under its NRF Fellowship (Award# NRF-NRFF14-2022-0001) and funding allocation to B.F. by A*STAR under its SERC Central Research Fund (CRF).
