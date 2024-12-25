@@ -15,10 +15,10 @@ Run the following commands to install necessary dependencies.
 ## Data
 We use the SSG dataset to train/evaluate our method. SSG is based on Action Genome dataset.
 Please process and downloaded Action Genome video frames with the [Toolkit](https://github.com/JingweiJ/ActionGenome) into `data/frames` folder. 
-Download the SSG annotations from https://drive.google.com/drive/folders/1cUNQpBM5TBftALfcfA67AgtM7HvxYKNd?usp=drive_link and put them into the `data` folder.
+Download the SSG annotations from [SSG dataset](https://drive.google.com/drive/folders/1cUNQpBM5TBftALfcfA67AgtM7HvxYKNd) and put them into the `data` folder.
 
 ## Fine-tuned CLIP ViT-L-14-336 model on SSG dataset
-We provide the fine-tuned CLIP ViT-L-14-336 model on SSG dataset at https://drive.google.com/drive/folders/1eXOJ-HVPlBAc-8bM6_FwcFQ5bO2u2lbh?usp=sharing
+We provide the fine-tuned CLIP ViT-L-14-336 model on SSG dataset at [CLIP_ViT-L-14-336-SSG-sft](https://drive.google.com/drive/folders/1eXOJ-HVPlBAc-8bM6_FwcFQ5bO2u2lbh?usp=sharing)
 Download and put this model into `pre_trained_models` folder. 
 
 ## Training
